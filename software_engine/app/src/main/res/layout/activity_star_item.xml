@@ -1,0 +1,20 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:stretchColumns="0" >
+    <TableRow>
+        <com.example.software_engine.weight.MyVideoPlayer
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:id="@+id/vp1"
+            android:layout_margin="5dp"
+            android:layout_height="wrap_content"/>
+        <com.example.software_engine.weight.MyVideoPlayer
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:id="@+id/vp2"
+            android:layout_margin="5dp"
+            android:layout_height="wrap_content"/>
+    </TableRow>
+
+</TableLayout>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/et_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="请输入内容"
+        />
+
+    <com.example.test7.newButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="回调"
+        />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="AsyncTask"
+        android:onClick="Aysnc"
+        >
+    </Button>
+
+    <!--<Button-->
+    <!--android:id="@+id/bt"-->
+    <!--android:layout_width="wrap_content"-->
+    <!--android:layout_height="wrap_content"-->
+    <!--android:text="获取内容"-->
+    <!--android:onClick="getResource"-->
+    <!--/>-->
+
+</LinearLayout>

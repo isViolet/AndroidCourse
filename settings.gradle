@@ -1,0 +1,2 @@
+include ':app', ':layouttest', ':test2', ':test3', ':test4', ':3clickevents', ':intentevents', ':test7'
+include ':test8'

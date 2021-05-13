@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../3clickevents/3clickevents.iml" filepath="$PROJECT_DIR$/../3clickevents/3clickevents.iml" group="AndroidCourse/3clickevents" />
+      <module fileurl="file://$PROJECT_DIR$/../AndroidCourse.iml" filepath="$PROJECT_DIR$/../AndroidCourse.iml" group="AndroidCourse" />
+      <module fileurl="file://$PROJECT_DIR$/../app/app.iml" filepath="$PROJECT_DIR$/../app/app.iml" group="AndroidCourse/app" />
+      <module fileurl="file://$PROJECT_DIR$/../intentevents/intentevents.iml" filepath="$PROJECT_DIR$/../intentevents/intentevents.iml" group="AndroidCourse/intentevents" />
+      <module fileurl="file://$PROJECT_DIR$/../layouttest/layouttest.iml" filepath="$PROJECT_DIR$/../layouttest/layouttest.iml" group="AndroidCourse/layouttest" />
+      <module fileurl="file://$PROJECT_DIR$/../test2/test2.iml" filepath="$PROJECT_DIR$/../test2/test2.iml" group="AndroidCourse/test2" />
+      <module fileurl="file://$PROJECT_DIR$/test3.iml" filepath="$PROJECT_DIR$/test3.iml" group="AndroidCourse/test3" />
+      <module fileurl="file://$PROJECT_DIR$/../test4/test4.iml" filepath="$PROJECT_DIR$/../test4/test4.iml" group="AndroidCourse/test4" />
+      <module fileurl="file://$PROJECT_DIR$/../test7/test7.iml" filepath="$PROJECT_DIR$/../test7/test7.iml" group="AndroidCourse/test7" />
+      <module fileurl="file://$PROJECT_DIR$/../test8/test8.iml" filepath="$PROJECT_DIR$/../test8/test8.iml" group="AndroidCourse/test8" />
+    </modules>
+  </component>
+</project>

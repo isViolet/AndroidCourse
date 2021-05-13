@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:layout_margin="5dp"
+        android:id="@+id/teach_pic"
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="80dp"/>
+
+    <TextView
+        android:layout_margin="5dp"
+        android:id="@+id/teach_sen"
+        android:layout_width="0dp"
+        android:gravity="center"
+        android:layout_weight="3"
+        android:layout_height="80dp"/>
+
+</LinearLayout>

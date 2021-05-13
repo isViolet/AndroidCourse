@@ -1,0 +1,3 @@
+rootProject.name='studyxml'
+include ':app'
+include ':test10_2'
